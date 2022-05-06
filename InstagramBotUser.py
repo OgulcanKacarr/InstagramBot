@@ -1,2 +1,2 @@
-username = "zehraacbn0"
-password = "Tayyonn1"
+username = "instagram_username"
+password = "instagram_userpassword"
