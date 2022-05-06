@@ -8,6 +8,6 @@ git clone https://github.com/OgulcanKacarr/InstagramBot.git
 pip install -r requirements.txt
 python3 InstagramBot.py
 
-``` <br>
+``` 
 
-![Main](https://github.com/OgulcanKacarr/InstagramBot/blob/main/Images/main.png)
+<br>![Main](https://github.com/OgulcanKacarr/InstagramBot/blob/main/Images/main.png)
